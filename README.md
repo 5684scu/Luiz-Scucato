@@ -5,7 +5,7 @@ SOU PROFESSOR DE BIOLOGIA
 -Formado pela Universidade Federal do Paraná, em 1984 e em Licenciatura em Ciências 1Grau.
 Com dois padrãos um já aposentado (Ciências) e Biologia no Colégio Estadual Papa João Paulo I - Ensino Fundamental e Médio Profissionalizante.
 Pós-Graduação latu sensi em Metodologia do Ensino Superior pela IBEPEX e PDE em 2013.
-
+Realizando Curso dde Formação desde 2020, atualmente Pensamento Computacional.
 [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://editor.p5js.org/)
 [![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)](https://scratch.mit.edu/)
 <!--
